@@ -21,7 +21,7 @@ title = '''
  DDos python script | Script used for testing ddos | Ddos attack     
  Author: ___MrTalha___                                                
  Github: http://github.com/TALHa8123                           
- Version:'''+version+:2.3''' 
+ Version:'''+version+''' 
 '''
  
 import re
